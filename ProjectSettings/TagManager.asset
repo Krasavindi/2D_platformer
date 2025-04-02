@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - platform
+  - Enemy
+  - Gem
+  - Obstacle
+  - BackEnemy
+  - LevelEntry
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Ladder
+  - Player
+  - Background
+  - Bouncing
+  - Enemies
+  - Spikes
+  - Bullets
+  - LevelEntry
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3760334747
+    locked: 0
+  - name: Water
+    uniqueID: 1688858571
+    locked: 0
+  - name: Foreground
+    uniqueID: 1446980413
+    locked: 0
+  - name: Ladder
+    uniqueID: 2479231843
+    locked: 0
+  - name: Spikes
+    uniqueID: 602221615
+    locked: 0
+  - name: Enemies
+    uniqueID: 4244921249
+    locked: 0
+  - name: Player
+    uniqueID: 1623025711
+    locked: 0
